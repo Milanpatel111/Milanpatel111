@@ -43,11 +43,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## Support 🇮🇳
-<a href="https://t.me/lntechnical">
-   <p> Telegram </p>
-  </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> YouTube </p>
-  </a>
+ 🇮🇳
+
+   
+
+
+
+
 
