@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/milan886696/8d8e3ecc-1638-44dc-afcb-e2084b1f479c/c6f33660-0175-4747-8d06-aa8d737b180c/_apis/work/boardbadge/7021d5e5-aa75-443f-8350-1fd210e84de8)](https://dev.azure.com/milan886696/8d8e3ecc-1638-44dc-afcb-e2084b1f479c/_boards/board/t/c6f33660-0175-4747-8d06-aa8d737b180c/Microsoft.RequirementCategory)
 # Google Translater
 <p align="center">
   <a href="https://www.python.org">
