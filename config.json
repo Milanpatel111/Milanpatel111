@@ -1,0 +1,19 @@
+{
+  "broker": "smartapi",
+  "scan_interval_seconds": 10,
+  "timeframe_minutes": 1,
+  "use_vwap_filter": true,
+  "log_file": "signals.csv",
+  "symbols": [
+    {
+      "symbol": "RELIANCE-EQ",
+      "exchange": "NSE",
+      "token": "2885"
+    },
+    {
+      "symbol": "TCS-EQ",
+      "exchange": "NSE",
+      "token": "11536"
+    }
+  ]
+}
